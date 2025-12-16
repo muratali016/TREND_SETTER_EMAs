@@ -61,5 +61,4 @@ Includes 10+ TradingView alert conditions:
 
 ---
 
-## 🧩 File Structure
 
