@@ -1,3 +1,6 @@
+
+<img width="3712" height="1152" alt="Gemini_Generated_Image_ofcnr1ofcnr1ofcn (1)" src="https://github.com/user-attachments/assets/7939aef8-c3ba-4dee-b814-40ec471e7a39" />
+
 # MAIN 5/9/20 EMA + VWAP + CFO Dashboard — TradingView Pine Script (v5)
 
 A comprehensive intraday research and paper-trading tool built using **Pine Script v5**, combining EMA trend structure, VWAP behavior, volatility bands, relative volume, angle-based momentum detection, and a CFO-style dashboard for real-time market context.
