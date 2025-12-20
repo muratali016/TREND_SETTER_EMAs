@@ -1,5 +1,6 @@
 **The information provided here is not financial advice**
 
+VIDEO: https://youtu.be/ONCuVSxCUDw?si=cpXUhB7rGs1tH9UA
 
 <img width="3712" height="1152" alt="Gemini_Generated_Image_ofcnr1ofcnr1ofcn (1)" src="https://github.com/user-attachments/assets/7939aef8-c3ba-4dee-b814-40ec471e7a39" />
 
